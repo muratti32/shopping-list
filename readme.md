@@ -2,9 +2,9 @@
 Shopping list app that build with React native 0.62.2
 
 
-|   |   |
-|---|---|
-| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="600" />  | **Shoping List  :** <br> Spacer used to connect two plates |
+|   |
+|---|
+| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="600" />  |
 
 
 MIT License
