@@ -1,15 +1,10 @@
-# SolidWorks Workspace
-In this workspace, there are works which I have done using Solidwork software.
+# Shoping List 
+Shopping list app that build with React native 0.62.2
 
 
 |   |   |
 |---|---|
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca/ara_parca.png" width="200" />  | **Ara_parca :** <br> Spacer used to connect two plates |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca2/ara_parca2_2.png" width="200" />  | **Ara_parca2 :** <br>Spacer used to connect two plates  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca3/ara_parca33.png" width="200" /> | **Ara_parca3 :** <br> Spacer used to connect two plates  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/pervane/pervane2.png" width="200" />  | **Pervane :** <br> Propeller  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/ara_parca4/ara_parca44.png" width="200" />  | **Ara_parca4 :** <br>Spacer used to connect two plates  |
-| <img src="https://github.com/muratti32/solidworks-workspace/blob/master/surface1/surface11.jpg" width="200" />  | **Surface1 :** <br>Surface example  |
+| <img src="https://github.com/muratti32/shopping-list/blob/master/img/proje.gif" width="600" />  | **Shoping List  :** <br> Spacer used to connect two plates |
 
 
 MIT License
